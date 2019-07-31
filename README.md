@@ -2,5 +2,4 @@
 * COMPETITIVE PROGRAMMING PRACTICE QUESTIONS
 * My journey to `COMPETITIVE PROGRAMMING`.
 
-> All the questions solved here belongs to coder named **Abhishek** which is
-> -me.
+> All the question's solutions provided here are solved by -me.

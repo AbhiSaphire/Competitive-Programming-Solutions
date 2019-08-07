@@ -6,12 +6,12 @@
 using namespace std;
 
 int main(){
-	int n = 3;
-	//cin>> n;
-	vector<int> A = {1, 2, 3};
+	int n;
+	cin>> n;
+	vector<int> A(n, 0);
 	long long S = 0;
 
-	//for (int i=0; i<n; i++)	cin>>A[i];
+	for (int i=0; i<n; i++)	cin>>A[i];
 	for (int i=0; i<n; i++)	S += A[i];
 
 	map<int, int> M1, M2;

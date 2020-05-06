@@ -2,8 +2,7 @@
 # Basically Task was to sort a given list of strings of versions.
 # Eg. list=["0.1.1", "3.3.2", "5.7.2", "0.3", "0.5.6", "1.3", "9.9"] produces ['0.1.1', '0.3', '0.5.6', '1.3', '3.3.2', '5.7.2', '9.9']
 # My approach:: built a merge sort with custom compare function to split and comapre versions (since they are not int values)
-# This solution passes the question but with only 70%. 
-# If someone find any reason for that feel free to make a pull request.
+# If someone find any better solution (time complexity < O(nlogn)) for that feel free to make a pull request.
 
 def compare(x, y):
 	a = x.split('.')

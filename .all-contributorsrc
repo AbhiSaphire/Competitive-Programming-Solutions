@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AbhiSaphire",
+      "name": "Abhishek Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43245214?v=4",
+      "profile": "https://abhisaphire.github.io",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Competitive-Programming-Solutions",
+  "projectOwner": "AbhiSaphire",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

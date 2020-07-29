@@ -21,7 +21,7 @@ This repository includes all of my accepted solutions from different sites (main
   
 * [Google Foobar Challenge](https://github.com/AbhiSaphire/Competitive-Programming-Solutions/tree/master/Google-Foobar-Challenge)
 
-* [Contest Problems](https://github.com/AbhiSaphire/Competitive-Programming-Solutions/tree/master/Extras)
+* [Contest Problems](https://github.com/AbhiSaphire/Competitive-Programming-Solutions/tree/master/Contest)
 
 * [HackerEarth](https://github.com/AbhiSaphire/Competitive-Programming-Solutions/tree/master/HackerEarth)
   * [Bit Magic Problems](https://github.com/AbhiSaphire/Competitive-Programming-Solutions/tree/master/HackerEarth/BitManipulation)

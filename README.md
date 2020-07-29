@@ -34,8 +34,8 @@ This repository includes all of my accepted solutions from different sites (main
 * [Basic STL](https://github.com/AbhiSaphire/Competitive-Programming-Solutions/tree/master/STL)
 
 ## Contributions
-Anyone who wants to start contributing to public repositories ths is the place for you. Any type of legit contribution will be appreciated. Contributions may include - 
-* Documentation (Problem or/and Solution Explaination in Solution's as comments)
+Anyone who wants to start contributing to public repositories this is the place for you. Any type of legit contribution will be appreciated. Contributions may include - 
+* Documentation (Problem or/and Solution Explanation in Solution's as comments)
 * Improved algorithm implementation
 * Code cleaning
 * Code modularization

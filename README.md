@@ -1,6 +1,6 @@
 # Competitive Programming Solution
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction
@@ -50,6 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://abhisaphire.github.io"><img src="https://avatars3.githubusercontent.com/u/43245214?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Kumar</b></sub></a><br /><a href="https://github.com/AbhiSaphire/Competitive-Programming-Solutions/commits?author=AbhiSaphire" title="Code">💻</a> <a href="#content-AbhiSaphire" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/thedrivingforc"><img src="https://avatars2.githubusercontent.com/u/59633985?v=4" width="100px;" alt=""/><br /><sub><b>thedrivingforc</b></sub></a><br /><a href="https://github.com/AbhiSaphire/Competitive-Programming-Solutions/commits?author=thedrivingforc" title="Code">💻</a></td>
   </tr>
 </table>
 
